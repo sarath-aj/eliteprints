@@ -196,8 +196,7 @@ export default {
 
   // Axios module configuration (https://go.nuxtjs.dev/config-axios)
   axios: {
-    baseURL: 'https://mighty-cliffs-93649.herokuapp.com/api/',
-    // baseURL: 'http://localhost:8000/api/',
+    baseURL: process.env.AXIOS_BASE_URL,
   },
   // Sitemap
   sitemap: {
