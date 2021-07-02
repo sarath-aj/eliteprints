@@ -16,7 +16,7 @@ Credit Card for Stripe: 4242 4242 4242 4242 – Anything in the CVV and expirati
 ```
 ## Features
 ``` bash
-<h2>GENERAL FEATURES<h2>:
+GENERAL FEATURES:
 Single Page Ecommerce App
 Vuex For State Management
 Admin Panel Integration -- CMS
@@ -36,7 +36,7 @@ Contact Us Form
 Dynamic Sitemap.xml
 Whole Database and Code Backup
 
-Customer Panel:
+CUSTOMER PANEL:
 Customer Overview Section
 View Previous Orders
 Cancel Orders
@@ -46,7 +46,7 @@ Update Account Information Like Name And Mobile
 Add Address, Delete Address, Update Address, View All Addresses, Make An Address Default
 
 
-Admin Panel Features:
+ADMIN PANEL FEATURES:
 Stock Management
 Product Crud
 Product Variations Crud -- S, M, L, XL, XXL
