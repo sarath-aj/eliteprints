@@ -1,4 +1,4 @@
-# Elite Prints
+# ElitePrints Client
 
 ## Build Setup
 
