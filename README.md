@@ -5,23 +5,24 @@
 > TECHNOLOGIES USED: HTML5, CSS3, Bootstrap 4, JavaScript, VueJS, NuxtJS, Laravel 6, MySQL, Jest, Cypress, PHPUnit, JWT, REST API.
 
 ## Demo
-``` bash
+
 Homepage: https://eliteprints.herokuapp.com/
 Admin panel: https://eliteprints.herokuapp.com/admin/login
-```
+
 
 ## Test accounts for payment
+``` bash
 Credit Card for Stripe: 4242 4242 4242 4242 – Anything in the CVV and expiration date
-
+```
 ## Features
 
 ## App Info
 
 ### Author
-
+``` bash
 Sarath Kumar A J
 (https://sarathaj.tech/)
-
+```
 ### Version
 
 1.0.0
