@@ -18,9 +18,10 @@ Credit Card for Stripe: 4242 4242 4242 4242 – Anything in the CVV and expirati
 ``` bash
 GENERAL FEATURES:
 Single Page Ecommerce App
+Vuex For State Management
 Admin Panel Integration -- CMS
 REST API
-Login And Register System With JET
+Login And Register System With JWT
 Breadcrumb
 Search Functionality
 Flexible Cart Functionality
@@ -32,7 +33,7 @@ Dynamic Shipping Address
 Dynamic Shipping Methods
 Payment Method Implementations Including Saved Payment Methods
 Contact Us Form
-Dynamic Sitemap
+Dynamic Sitemap.xml
 Whole Database and Code Backup
 
 Customer Panel:
