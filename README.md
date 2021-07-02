@@ -15,6 +15,51 @@ Admin panel: https://eliteprints.herokuapp.com/admin/login
 Credit Card for Stripe: 4242 4242 4242 4242 – Anything in the CVV and expiration date
 ```
 ## Features
+``` bash
+GENERAL FEATURES:
+Single Page Ecommerce App
+Admin Panel Integration -- CMS
+REST API
+Login And Register System With JET
+Breadcrumb
+Search Functionality
+Flexible Cart Functionality
+Products Filtering System: Filter By Price, Filter By Brand, Filter By Colors, Etc..
+Pagination For Products
+Stripe Integration
+Order Tracking
+Dynamic Shipping Address
+Dynamic Shipping Methods
+Payment Method Implementations Including Saved Payment Methods
+Contact Us Form
+Dynamic Sitemap
+Whole Database and Code Backup
+
+Customer Panel:
+Customer Overview Section
+View Previous Orders
+Cancel Orders
+Change Password
+Password History Validation
+Update Account Information Like Name And Mobile
+Add Address, Delete Address, Update Address, View All Addresses, Make An Address Default
+
+
+Admin Panel Features:
+Stock Management
+Product Crud
+Product Variations Crud -- S, M, L, XL, XXL
+Product Image Uploads With Validations
+Brand Crud
+Change Site Settings
+View Orders, Change Order Status, Manger Orders
+Data table
+Add New Admins
+Update Customer Details
+Stats Page
+
+
+```
 
 ## App Info
 
