@@ -16,7 +16,7 @@ Credit Card for Stripe: 4242 4242 4242 4242 – Anything in the CVV and expirati
 ```
 ## Features
 ``` bash
-GENERAL FEATURES:
+<h2>GENERAL FEATURES<h2>:
 Single Page Ecommerce App
 Vuex For State Management
 Admin Panel Integration -- CMS
