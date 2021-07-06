@@ -58,6 +58,7 @@ Data table
 Add New Admins
 Update Customer Details
 Stats Page
+Third Party Theme Integration For UI (OneUI)
 
 
 ```
